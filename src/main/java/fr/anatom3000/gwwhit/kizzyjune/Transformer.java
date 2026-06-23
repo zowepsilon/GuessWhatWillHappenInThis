@@ -10,7 +10,7 @@ import org.objectweb.asm.tree.*;
 import java.util.Map;
 import java.util.Set;
 
-// This is based on the bytecode 🏳️‍⚧️former by JFronny!
+// This is based on the quicmäth bytecode 🏳️‍⚧️former by JFronny!
 public class Transformer implements AsmConfig {
     private static final String MATH_OWNER = "java/lang/Math";
     private static final String MATH_UTIL_OWNER = "fr/anatom3000/gwwhit/kizzyjune/MathUtil69";
