@@ -114,6 +114,7 @@
   "text.autoconfig.gwwhit.option.gameplay.blocks.everythingBurns": "Everything Burns",
   "text.autoconfig.gwwhit.option.gameplay.blocks.replaceEverything": "Everything is Replaceable",
   "text.autoconfig.gwwhit.option.gameplay.farlands": "Enable far lands",
+  "text.autoconfig.gwwhit.option.gameplay.farlands.@Tooltip": "Might also break mountain generation at high coordinates.",
 
   "text.autoconfig.gwwhit.category.rendering": "Rendering",
   "text.autoconfig.gwwhit.option.rendering.world": "World",

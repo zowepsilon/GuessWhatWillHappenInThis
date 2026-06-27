@@ -21,7 +21,7 @@ public class GameplayConfig implements ConfigData {
     @SyncOptions(SERVER) public boolean randomizedDrops = false;
     @SyncOptions(SERVER) @Tooltip(count = 2) public boolean dreamLuck = false;
     @SyncOptions(CLIENT) @Tooltip public boolean killCulling = false;
-    @SyncOptions(SERVER) public boolean farlands = false;
+    @SyncOptions(SERVER) @Tooltip public boolean farlands = false;
 
     public static class Items {
         @SyncOptions(BOTH | SYNCED) public boolean everythingIsEdible = false;
